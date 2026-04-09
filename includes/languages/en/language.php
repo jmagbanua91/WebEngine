@@ -3,12 +3,12 @@
  * WebEngine CMS
  * https://webenginecms.org/
  * 
- * @version 1.2.6
- * @author Lautaro Angelico <http://lautaroangelico.com/>
- * @copyright (c) 2013-2025 Lautaro Angelico, All Rights Reserved
+ * @version 1.2.7
+ * @author Lautaro Angelico <https://lautaroangelico.com/>
+ * @copyright (c) 2013-2026 Lautaro Angelico, All Rights Reserved
  * 
  * Licensed under the MIT license
- * http://opensource.org/licenses/MIT
+ * https://opensource.org/licenses/MIT
  */
 
 # general
@@ -264,7 +264,7 @@ $lang['myaccount_txt_10'] = 'Offline';
 $lang['myaccount_txt_12'] = 'Credits:';
 $lang['myaccount_txt_13'] = 'Date';
 $lang['myaccount_txt_14'] = 'recover';
-$lang['myaccount_txt_15'] = 'My Characters:';
+$lang['myaccount_txt_15'] = 'My Characters';
 $lang['myaccount_txt_16'] = 'Connection History';
 $lang['myaccount_txt_17'] = 'Server';
 $lang['myaccount_txt_18'] = 'IP';
@@ -351,6 +351,7 @@ $lang['rankings_filter_13'] = 'Light Wizards';
 $lang['rankings_filter_14'] = 'Lemuria Mages';
 $lang['rankings_filter_15'] = 'Illusion Knights';
 $lang['rankings_filter_16'] = 'Alchemists';
+$lang['rankings_filter_17'] = 'Crusaders';
 
 # clear pk
 $lang['clearpk_txt_1'] = 'Character';
