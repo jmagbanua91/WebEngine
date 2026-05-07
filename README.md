@@ -1,4 +1,4 @@
-# WebEngine CMS 1.2.6
+# WebEngine CMS 1.2.7
 
 WebEngine is an Open source Content Management System (CMS) for Mu Online servers. Our main goal is to provide a fast, secure and high quality framework for server owners to create and implement their own features to their websites.
 
@@ -11,7 +11,7 @@ These instructions will help you deploy your own website using WebEngine CMS.
 Here's what you'll need to run WebEngine CMS in your web server
 
 * Apache mod_rewrite
-* PHP 8.1 or higher (8.4 recommended)
+* PHP 8.2 or higher (8.5 recommended)
 * PHP modules: PDO dblib (sybase)/odbc/sqlsrv, cURL, OpenSSL, GD
 
 ### Installing
@@ -19,7 +19,7 @@ Here's what you'll need to run WebEngine CMS in your web server
 1. Download the latest release of WebEngine CMS
 2. Upload the ZIP file contents to your web server
 3. Run WebEngine CMS Installer by going to `example.com/install` and follow the given instructions
-4. Configure the master cron job located at `/includes/cron/cron.php` to run `once per minute`. For more detailed instructions [click here](https://github.com/lautaroangelico/WebEngine/wiki/Setting-up-the-master-cron-job).
+4. Configure the master cron job located at `/includes/cron/cron.php` to run `once per minute`. For more detailed instructions [click here](https://webenginecms.com/getting-started.html).
 
 ## Other Software
 
@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 ### WebEngine CMS Official Website
-[WebEngine CMS Official Website](https://webenginecms.org/)
+[WebEngine CMS Official Website](https://webenginecms.com/)
 
 ### Discord Server
-[WebEngine CMS Discord](https://webenginecms.org/discord)
+[WebEngine CMS Discord](https://discord.gg/cH387DQ)
