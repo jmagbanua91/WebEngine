@@ -72,6 +72,6 @@ if(isset($_GET['action'])) {
 <p>If you find WebEngine CMS useful, please consider supporting the continued development of the project by exploring our premium plugins available on the official website. You can also support the project by sharing WebEngine CMS with others, providing feedback, and joining our community through our social media platforms and Discord server.</p>
 <br />
 
-<p>To proceed with the installation, click the "Start Installation" button below..</p>
+<p>To proceed with the installation, click the "Start Installation" button below.</p>
 
 <a href="?action=install" class="btn btn-lg btn-success">Start Installation</a>
